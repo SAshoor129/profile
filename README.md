@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SALMAN ASHOOR</h1>
-<h3 align="center">A passionate cloud computing student from Bahrain</h3>
+<h3 align="center">𝙰 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚌𝚕𝚘𝚞𝚍 𝚌𝚘𝚖𝚙𝚞𝚝𝚒𝚗𝚐 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚏𝚛𝚘𝚖 𝙱𝚊𝚑𝚛𝚊𝚒𝚗</h3>
 
 - 🔭 I’m currently working on **Graduation Project**
 
